@@ -1,0 +1,33 @@
+.underlinenav {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 40px;
+  margin: 0;
+  border-bottom: 1px solid #6a737d;
+}
+
+.underline__option {
+  display: flex;
+  cursor: pointer;
+  padding-bottom: 10px;
+  width: 100%;
+  align-items: center;
+  font-size: medium;
+}
+
+.underline__option > span > h5 {
+  margin: 0px;
+  padding-right: 5px;
+}
+
+.underline__option:hover {
+  border-bottom: 2px solid #d15704;
+  border-radius: 0.5px;
+}
+
+.underline__repo {
+  background: #d1d4d180;
+  border-radius: 45%;
+  padding: 0px 6px;
+  font-size: 12px;
+}
