@@ -1,5 +1,7 @@
 # Github Clone with React JS
 
+![main](main.png)
+
 React is a powerful tool in the world of web development. Here is a just dummy frontend of github.
 
 ## key points
