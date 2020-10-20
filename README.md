@@ -13,7 +13,7 @@ React is a powerful tool in the world of web development. Here is a just dummy f
 ## Clone the project
 
 git clone https://github.com/shivkaansh/github_clone.git
-cd amazon_clone_React_JS
+cd github_clone
 npm i
 npm start
 

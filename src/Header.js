@@ -4,7 +4,7 @@ import NotificationsNoneIcon from '@material-ui/icons/NotificationsNone';
 import AddIcon from '@material-ui/icons/Add';
 import ArrowDropDownIcon from '@material-ui/icons/ArrowDropDown';
 import "./Header.css"
-import { Avatar, IconButton } from '@material-ui/core';
+import { Avatar} from '@material-ui/core';
 
 function Header() {
     return (
